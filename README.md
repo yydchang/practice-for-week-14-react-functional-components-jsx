@@ -95,7 +95,7 @@ should be `paddingRight`.) Each value in your key/value pairs should be
 represented in quotes as a string, and you don't need to specify `px` after
 numbers.
 
-Inside your `h1` tag, wrap a separate `span` tag around each of the two
+Inside your `h2` tag, wrap a separate `span` tag around each of the two
 `pokeCharacteristics`. Inside the first span make the background color green and
 the text white. Inside the second span make the background color white and the
 text green using hex colors.

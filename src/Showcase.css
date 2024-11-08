@@ -1,0 +1,15 @@
+.showcase {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.type {
+    background-color: green;
+    color: white;
+}
+
+.move {
+    background-color: #fcfaf9;
+    color: #a2d729;
+}
